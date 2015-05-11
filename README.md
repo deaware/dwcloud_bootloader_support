@@ -17,7 +17,7 @@ This repository is official bootloader supported from Deaware System. We will up
 
 
 | Arduino Board (UNO, Pro Mini, Nano) | DW.CLOUD |
-| -- | -- |
+| ------------- | ----------- |
 | 5V | 5V |
 | GND | GND |
 | D10 | RST |
