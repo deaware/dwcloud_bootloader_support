@@ -31,6 +31,8 @@ This repository is official bootloader supported from Deaware System. We will up
 DW.CLOUD pins detail.
 ![](http://128.199.203.210/dwcloud_support/images/dw_cloud2_pinout.png)
 
+***#Number 3 - 8 for Windows Users, Mac Users please wait for next update.***
+
 #### 3) Download flasher software (avrdudess) from this [link](http://128.199.203.210/dwcloud_support/downloads/avrdudess.zip).
 
 #### 4) Clone this repository to get bootloader.
