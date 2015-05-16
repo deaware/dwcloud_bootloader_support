@@ -136,12 +136,12 @@
 #define SIG3    0x08
 #elif defined(__AVR_ATmega324PA__)
 /* Real Signature of atmega324pa */
-#define SIG2  0x95
-#define SIG3  0x11
+//#define SIG2  0x95
+//#define SIG3  0x11
 
 /* Fake Signature as atmega324p */
-//#define SIG2    0x95
-//#define SIG3    0x08
+#define SIG2    0x95
+#define SIG3    0x08
 #endif
 
 #if defined(__AVR_ATmega644__) || defined(__AVR_ATmega644P__)
