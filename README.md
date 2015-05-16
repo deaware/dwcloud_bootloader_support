@@ -1,5 +1,5 @@
 # DW.CLOUD V2 Bootloader
-This repository is official bootloader supported by Deaware System. We will update new feature and bug fixed. If there are any bug, please create new issue to report us.
+This repository is official bootloader supported by Deaware System. We will update new feature and fix bug. If there are any bug, please create new issue to report us.
 
 ## Current feature
 - Reduce boot-time to 0.2 seconds.
