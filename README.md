@@ -8,6 +8,7 @@ This repository is official bootloader supported by Deaware System. We will upda
 
 ## Changelog
 - First commit.
+- Add avrdudess (with libusb) to repository.
 
 ## How to flash bootloader into DW.CLOUD
 #### 1) Preparing other arduino board to be a programmer. By uploading example ArduinoISP into your arduino board.
@@ -33,7 +34,7 @@ DW.CLOUD pins detail.
 
 ***#Number 3 - 8 for Windows Users, Mac Users please wait for next update.***
 
-#### 3) Download flasher software (avrdudess) from this [link](http://128.199.203.210/dwcloud_support/downloads/avrdudess.zip).
+#### 3) Download flasher software (avrdudess) from this [link](http://github.com/deaware/dwcloud_bootloader_support/raw/master/tools/avrdudess.zip).
 
 #### 4) Clone this repository to get bootloader.
 #### 5) Extract **"avrdudess.zip"**
